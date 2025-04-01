@@ -1,8 +1,18 @@
 8GB RAM required; more on Singleplayer
-<br>[Prism Luncher](https://prismlauncher.org/) or [Modrinth Launcher](https://modrinth.com/app) recommended; [Curseforge](https://www.curseforge.com/download/app) is supported, but not tested.
+<br>[Prism Launcher](https://prismlauncher.org/) or [Modrinth Launcher](https://modrinth.com/app) recommended; [CurseForge](https://www.curseforge.com/download/app) is supported, but not tested.
 
 ~~Free dedicated server hosting is available at: https://ente.dev/sponsored-host~~ Soon™️
 <br>(Non-Commercial use only)
+
+### Download / Install:
+ - Modrinth Soon™️
+ - CurseForge Soon™️
+ - PrismLauncher Soon™️
+
+ - Server Soon™️
+
+### Changelog:
+ - None noted here, if it is still the case after the release on modrinth, I probably forgot >~<
 
 ### Disabled / Removed mods:
 - [Blendium](https://modrinth.com/mod/blendium):
