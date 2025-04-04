@@ -34,9 +34,13 @@
   - Download and Install the [Modrinth App](https://modrinth.com/app).
   - Login or create a Modrinth account.
   - Login with your Microsoft account.
-  - Navigate to or search for [Chaotic Create](https://modrinth.com/project/chaotic-create/)
+  - Navigate to or search for [Chaotic Create](https://modrinth.com/modpack/chaotic-create/)
   - Click "Install" in the top right of the Window.
   - Enjoy!
+
+## To-Do:
+- [ ] In-Game Update Checker & Notifications
+- [ ] Proper download page and API documentation
 
 ## Changelog:
  - 1.4.2
@@ -49,6 +53,9 @@
  - 1.4.4
    - Updated upstream
    - readded NERB
+ - 1.4.5
+   - first public release
+     - after ~200h of playtesting, it should be stable enough for everyone to use :)
 
 ## Disabled / removed mods:
 - [Starlight](https://modrinth.com/mod/starlight-forge):
