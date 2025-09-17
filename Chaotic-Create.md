@@ -5,18 +5,18 @@
 <br>Made primarily for DrChaos23
 
 ~~Free dedicated server hosting is available at: https://ente.dev/sponsored-host~~ Soon™️
-<br>(Non-Commercial use only)
+<br>(Non-commercial use only)
 
 ## Download / Install:
  - [Modrinth](https://modrinth.com/modpack/chaotic-create/)
    - [Direct Download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.mrpack)
  - CurseForge
-   - I won't release it on CurseForge directly due to their terrible practices, you can download the Modpack in CurseForge Format for their Launcher via the API / direct download below.
+   - I won't release it on CurseForge directly due to their terrible practices; you can download the modpack in CurseForge format for their launcher via the API / direct download below.
    - [Direct Download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5-CURSE.zip)
  - [PrismLauncher](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.zip)
 
  - Server
-   - 8GB of RAM required for dedicated server, 8 cores or more highly recommended, make sure to pregenerate the world.
+   - 8GB of RAM required for a dedicated server; 8 cores or more highly recommended; make sure to pregenerate the world.
      - If you need any help or a server for your friends (EU only), feel free to reach out!
      - [Server download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5-SERVER.zip)
 
@@ -24,7 +24,7 @@
 - [Prism Launcher](https://prismlauncher.org/download/):
   - Download and Install [Prism Launcher](https://prismlauncher.org/download/).
   - Login with your Microsoft account.
-  - [Download the .zip file for the modpack you want in the "Prism Launcher" Format](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.zip). (Available as [direct download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.zip) or on [Modrinth](https://modrinth.com/modpack/chaotic-create/)).
+  - [Download the .zip file for the modpack you want in the “Prism Launcher” Format](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.zip). (Available as a [direct download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.zip) or on [Modrinth](https://modrinth.com/modpack/chaotic-create/)).
   - Pull it into the Prism Launcher after it finished downloading (via drag and drop).
   - Enjoy!
  
@@ -35,7 +35,7 @@
   - Login or create a Modrinth account.
   - Login with your Microsoft account.
   - Navigate to or search for [Chaotic Create](https://modrinth.com/modpack/chaotic-create/)
-  - Click "Install" in the top right of the Window.
+  - Click “Install” in the top right of the Window.
   - Enjoy!
 
 ## To-Do:
@@ -45,16 +45,16 @@
 ## Changelog:
  - 1.4.2
    - Removed Starlight, SmoothSwapping
-   - Removed NERB to test if its a serverside error
-   - Fixed Keybinds to not have any noticeable overlap anymore.
+   - Removed NERB to test if it's a server-side error.
+   - Fixed keybinds to not have any noticeable overlap anymore.
  - 1.4.3
-   - removed MoreMCMeta & MoreMCMeta Emissive Textures Plugin
+   - Removed MoreMCMeta & MoreMCMeta Emissive Textures Plugin
    - Fixed performance issues and improved a lot of lag spikes
  - 1.4.4
    - Updated upstream
    - readded NERB
  - 1.4.5
-   - first public release
+   - First public release
      - after ~200h of playtesting, it should be stable enough for everyone to use :)
 
 ## Disabled / removed mods:
