@@ -1,7 +1,7 @@
 # Chaotic Create
 <br>A Forge 1.20.1 Modpack based around Create 6
 <br>8GB RAM required; more for Singleplayer
-<br>[Prism Launcher](https://prismlauncher.org/) or [Modrinth Launcher](https://modrinth.com/app) recommended; [CurseForge](https://www.curseforge.com/download/app) is supported, but not tested.
+<br>[Prism Launcher](https://prismlauncher.org/) or [Modrinth Launcher](https://modrinth.com/app) recommended; [CurseForge Launcher](https://www.curseforge.com/download/app) is supported, but not tested.
 <br>Made primarily for DrChaos23
 
 ~~Free dedicated server hosting is available at: https://ente.dev/sponsored-host~~ Soon™️
