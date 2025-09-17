@@ -11,7 +11,7 @@
  - [Modrinth](https://modrinth.com/modpack/chaotic-create/)
    - [Direct Download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.mrpack)
  - CurseForge
-   - I won't release it on CurseForge directly due to their terrible practices, you can download the Modpack in CurseForge Format for their Launcher on [Modrinth](https://modrinth.com/modpack/chaotic-create/) or get it via the API / direct download below.
+   - I won't release it on CurseForge directly due to their terrible practices, you can download the Modpack in CurseForge Format for their Launcher via the API / direct download below.
    - [Direct Download](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5-CURSE.zip)
  - [PrismLauncher](https://ente.dev/dl/modpack/chaotic-create/Chaotic-Create-6_1.4.5.zip)
 
