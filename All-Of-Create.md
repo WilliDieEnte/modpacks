@@ -1,3 +1,4 @@
+# All Of Create
 8GB RAM required; more on Singleplayer
 <br>[Prism Launcher](https://prismlauncher.org/) or [Modrinth Launcher](https://modrinth.com/app) recommended; [CurseForge](https://www.curseforge.com/download/app) is supported, but not tested.
 
