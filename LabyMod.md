@@ -1,5 +1,5 @@
 # LabyMod (Unofficial)
-LabyMod is a copyright of LabyMedia GmbH. This is a community modpack to make adoption of LabyMod easier. I am not affiliated with them in any shape or form.
+###### LabyMod is a copyright of LabyMedia GmbH. This is a community modpack to make adoption of LabyMod easier. This project or I am not affiliated with them in any shape or form.
 
 [Prism Launcher](https://prismlauncher.org/), [Modrinth Launcher](https://modrinth.com/app) & [CurseForge Launcher](https://www.curseforge.com/download/app) are supported.
 
