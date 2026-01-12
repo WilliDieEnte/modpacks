@@ -12,7 +12,8 @@ and way more, while being fully compatible with the GermanMiner server.
 
 It is currently being shipped without any predefined configs; this will change soon™️ though.
 
-### Please use [the 1.21.4 Modpack](https://modrinth.com/modpack/germanminer/versions?g=1.21.4) as that's the actual server version of GM, even though they advertise up to 1.21.8!
+### Please use [the 1.21.10 Modpack](https://modrinth.com/modpack/germanminer/versions?g=1.21.10) as that's the actual server version of GM, even though they advertise up to 1.21.11!
+###### (As of 12.01.2025)
 
 ---
 
